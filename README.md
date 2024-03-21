@@ -9,11 +9,11 @@ Repositori ini berisi kode client dan server untuk aplikasi web yang didedikasik
 ## Penggunaan
 Untuk menyiapkan aplikasi secara lokal, ikuti langkah-langkah ini:
 1. Klon repositori ini ke komputer anda.
-2. Buka direktori `**client**` dan install dependensi menggunakan `**npm install**`.
-3. Mulai server client menggunakan `**npm run dev**`.
-4. Buka direktori `**server**` dan install depensendi menggunakan `**npm install**`.
-5. Mulai server menggunakan `**npm run dev**`.
-6. Akses aplikasi di peramban web anda di `**http://localhost:3000**`.
+2. Buka direktori `client` dan install dependensi menggunakan `npm install`.
+3. Mulai server client menggunakan `npm run dev`.
+4. Buka direktori `server` dan install depensendi menggunakan `npm install`.
+5. Mulai server menggunakan `npm run dev`.
+6. Akses aplikasi di peramban web anda di `http://localhost:3000`.
 
 ## Contributor
 - Gannteng's GitHub(github.com/Ganntengg)
