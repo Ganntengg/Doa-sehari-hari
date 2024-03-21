@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./Home/Home.jsx";
-import Semua from "./Semua/Semua.jsx";
-import Detail from "./Detail/Detail.jsx";
+import Home from "./Routes/Home/Home.jsx";
+import Semua from "./Routes/Semua/Semua.jsx";
+import Detail from "./Routes/Detail/Detail.jsx";
 import "./index.css";
-import Search from "./Search/Search.jsx";
+import Search from ".//Routes/Search/Search.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <Router>

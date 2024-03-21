@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./Semua.css";
-import { semuaDoa } from "../api";
+import { semuaDoa } from "../../Components/api";
 
 function Semua() {
   const [allDoa, setAllDoa] = useState([]);

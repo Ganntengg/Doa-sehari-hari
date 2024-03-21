@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { detailDoa } from "../api";
+import { detailDoa } from "../../Components/api";
 import "./Detail.css";
 import { useParams } from "react-router-dom";
 

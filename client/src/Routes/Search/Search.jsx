@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { cariDoa } from "../api";
+import { cariDoa } from "../../Components/api";
 import "./Search.css";
 import { useSearchParams } from "react-router-dom";
 
