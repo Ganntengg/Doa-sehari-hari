@@ -7,9 +7,7 @@ Repositori ini berisi kode client dan server untuk aplikasi web yang didedikasik
 - Fungsionalitas Pencarian: Aplikasi memungkinkan pengguna untuk mencari doa-doa tertentu menggunakan kata kunci atau frasa.
   
 ## Penggunaan
-
 Untuk menyiapkan aplikasi secara lokal, ikuti langkah-langkah ini:
-
 1. Klon repositori ini ke komputer anda.
 2. Buka direktori `**client**` dan install dependensi menggunakan `**npm install**`.
 3. Mulai server client menggunakan `**npm run dev**`.
@@ -19,7 +17,8 @@ Untuk menyiapkan aplikasi secara lokal, ikuti langkah-langkah ini:
 
 ## Contributor
 - Gannteng's GitHub(github.com/Ganntengg)
-  
+
+## Masukan dan kontribusi
 Masukan dan kontribusi sangat dialu-alukan! Jika Anda mengalami masalah atau memiliki saran untuk perbaikan, jangan ragu untuk membuka isu atau mengirimkan permintaan tarik.
 
 Catatan: Ganti placeholder seperti [Nama Anda atau Organisasi], [usernameanda], dll., dengan informasi yang sesuai dengan proyek Anda.
