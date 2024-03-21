@@ -21,7 +21,6 @@ app.get("/api/all", async (req, res) => {
 app.get("/api/detail/:id", async (req, res) => {
   const id = req.params.id;
   const datas = await getDetailDoa(id);
-  console.log(datas);
   res.send(datas);
 });
 

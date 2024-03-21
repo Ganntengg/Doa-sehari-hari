@@ -10,6 +10,7 @@ function Semua() {
     }
     fetching();
   }, []);
+  console.log(allDoa);
 
   const PerDoa = () => {
     if (allDoa.length <= 0) return <div>Loading Doa...</div>;
