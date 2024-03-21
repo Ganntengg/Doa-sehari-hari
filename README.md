@@ -16,7 +16,7 @@ Untuk menyiapkan aplikasi secara lokal, ikuti langkah-langkah ini:
 6. Akses aplikasi di peramban web anda di `http://localhost:3000`.
 
 ## Contributor
-- Gannteng's GitHub(github.com/Ganntengg)
+- [Gannteng's GitHub](github.com/Ganntengg)
 
 ## Masukan dan kontribusi
 Masukan dan kontribusi sangat dialu-alukan! Jika Anda mengalami masalah atau memiliki saran untuk perbaikan, jangan ragu untuk membuka isu atau mengirimkan permintaan tarik.
